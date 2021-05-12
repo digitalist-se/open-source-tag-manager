@@ -179,7 +179,7 @@
     "karma-phantomjs-launcher": "^0.1.4",
     "karma-sauce-launcher": "^0.2.11",
     "karma-sourcemap-loader": "^0.3.6",
-    "lodash": "^4.5.0",
+    "lodash": "^4.17.21",
     "phantomjs": "^1.9.18",
     "postscribe": "1.4.0",
     "q": "^1.4.1",
